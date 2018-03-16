@@ -19,6 +19,7 @@ import java.util.Scanner;
 /**
  * Created by yuan on 2018/3/16.
  */
+//todo nettyInAction
 public class ClientBootStrap {
 
     public static void main(String[] args) {
